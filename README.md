@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Akash Purwar!
 
-<!--
-**akashpurwar67/akashpurwar67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Developer** currently pursuing **MCA at NIT Warangal**. I enjoy building web and mobile applications that solve real-world problems. 🚀
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+### 🏆 Featured Projects
+
+- 🌾 **[FarmConnect](https://github.com/your-github-username/FarmConnect)** – A marketplace for farmers to connect and trade 🛒
+- 📱 **[CampusConnect](https://github.com/your-github-username/CampusConnect)** – A hostel delivery service app 🚀
+- ✅ **[Reverse To-Do List](https://github.com/your-github-username/Reverse-To-Do)** – A unique productivity tool 🔥
+
+### 📊 GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashpurwar67&show_icons=true&theme=tokyonight)
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter-handle)
+
+🔹 *"Work Hard in Silence, Let Success Make the Noise."* 🔹
+
+![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
