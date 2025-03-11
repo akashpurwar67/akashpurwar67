@@ -14,7 +14,6 @@ I'm a passionate **Full-Stack Developer** currently pursuing **MCA at NIT Warang
 ### 🏆 Featured Projects
 
 - 🌾 **[FarmConnect](https://github.com/your-github-username/FarmConnect)** – A marketplace for farmers to connect and trade 🛒
-- 📱 **[CampusConnect](https://github.com/your-github-username/CampusConnect)** – A hostel delivery service app 🚀
 - ✅ **[Reverse To-Do List](https://github.com/your-github-username/Reverse-To-Do)** – A unique productivity tool 🔥
 
 ### 🏅 DSA & Competitive Programming
