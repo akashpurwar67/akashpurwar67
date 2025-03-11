@@ -17,6 +17,9 @@ I'm a passionate **Full-Stack Developer** currently pursuing **MCA at NIT Warang
 - 📱 **[CampusConnect](https://github.com/your-github-username/CampusConnect)** – A hostel delivery service app 🚀
 - ✅ **[Reverse To-Do List](https://github.com/your-github-username/Reverse-To-Do)** – A unique productivity tool 🔥
 
+### 🏅 DSA & Competitive Programming
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/akashpurwar67)](https://leetcode.com/akashpurwar67/)
 
 🔹 *"Work Hard in Silence, Let Success Make the Noise."* 🔹
 
