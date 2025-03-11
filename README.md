@@ -17,15 +17,6 @@ I'm a passionate **Full-Stack Developer** currently pursuing **MCA at NIT Warang
 - 📱 **[CampusConnect](https://github.com/your-github-username/CampusConnect)** – A hostel delivery service app 🚀
 - ✅ **[Reverse To-Do List](https://github.com/your-github-username/Reverse-To-Do)** – A unique productivity tool 🔥
 
-### 📊 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashpurwar67&show_icons=true&theme=tokyonight)
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter-handle)
 
 🔹 *"Work Hard in Silence, Let Success Make the Noise."* 🔹
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
